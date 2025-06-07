@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Professional Summary
 
-Dedicated and adaptable Frontend Developer with 3 years of experience, currently pursuing a degree in Information Systems at the University of Information Technology. Skilled in building responsive, user-friendly web applications using modern technologies such as React, Redux, Styled Components, and RESTful APIs. Proven ability to apply theoretical knowledge to real-world projects and gain valuable teaching experience at programming centers.
+Dedicated and adaptable Frontend Developer with 3 years of experience. Skilled in building responsive, user-friendly web applications using modern technologies such as React, Redux, Styled Components, and RESTful APIs. Proven ability to apply theoretical knowledge to real-world projects and gain valuable teaching experience at programming centers.
 
 Known for being eager to learn, open to feedback, and committed to continuous professional growth.
 
