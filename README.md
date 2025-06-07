@@ -104,9 +104,6 @@ Git, Visual Studio Code, Jira, Figma, OpenAI API, Agile Scrum
 
 ## 🎓 Education & Certifications
 
-**University of Information Technology**  
-_Bachelor’s Degree in Information Systems (In Progress)_
-
 **Ton Duc Thang University**  
 _Bachelor of Science in Computer Science (2021)_
 
